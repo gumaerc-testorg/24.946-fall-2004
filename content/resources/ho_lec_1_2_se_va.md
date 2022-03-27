@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_lec_1_2_se_va.pdf
 uid: cc6e3298-f5f3-6b44-e64e-c3ee8ad3b895

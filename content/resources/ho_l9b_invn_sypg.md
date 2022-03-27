@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_l9b_invn_sypg.pdf
 uid: e22e3d52-77e6-245e-fbbe-0710451c205b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_mu_cs_waga_ku.pdf
 uid: 42408424-4f32-a7eb-07cf-2bd2396e859d

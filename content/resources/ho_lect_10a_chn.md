@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_lect_10a_chn.pdf
 uid: 0446ebd0-6000-3140-b90d-332372b874b5

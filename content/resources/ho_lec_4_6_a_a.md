@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_lec_4_6_a_a.pdf
 uid: ae80b041-4e11-0e41-ad37-e12a7c509e54

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ec8e2c1-b21c-7298-b669-86cf2d0b13c2
 resourcetype: Document
 title: ho_lct_8qr_scmbg.pdf
 uid: 8d7ff4bd-0244-1fe0-c1a5-0af8d4c4f9c8
