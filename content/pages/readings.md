@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section lists the journal articles and textbook selections for
+  each lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

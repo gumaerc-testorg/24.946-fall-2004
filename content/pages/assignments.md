@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'There are two main assignments for this course: a class presentation
+  and a final paper.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
