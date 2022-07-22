@@ -6,6 +6,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/8d7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ho_lct_8qr_scmbg.pdf
 uid: 8d7ff4bd-0244-1fe0-c1a5-0af8d4c4f9c8
 ---
 This resource provides information about scrambling, overt and covert movements.
-

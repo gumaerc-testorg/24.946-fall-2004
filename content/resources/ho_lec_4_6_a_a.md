@@ -7,6 +7,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/ae80
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: ae80b041-4e11-0e41-ad37-e12a7c509e54
 ---
 This resource provides information about the following topics:
 Preliminary observations, EPP, Proposal, and V-raising in Non-Pro-Drop Languages.
-

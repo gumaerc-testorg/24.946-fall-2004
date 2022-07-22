@@ -8,6 +8,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/cc6e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: cc6e3298-f5f3-6b44-e64e-c3ee8ad3b895
 ---
 This resource contains the following topics:
 Saito's Discovery, Optional movement and the EPP, Counterarguments, Further note on radical reconstruction, and Where radical reconstruction really exists.
-

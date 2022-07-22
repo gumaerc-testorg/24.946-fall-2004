@@ -11,6 +11,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/c7bb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: c7bbc62c-189e-e1c1-ef9d-27764fe22a68
 This resource contains the following topics:
 Importance of QF, Locality of floated numeral quantifiers, Counterexamples to Locality, Responding to the Counterexamples, The Analysis, Why doesn't Japanese have the ?Sportiche-   style? QF?, and New Way to do NP trace.
 8.
-

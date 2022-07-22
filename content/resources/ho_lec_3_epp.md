@@ -8,6 +8,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/f79a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: f79afff4-f055-1054-907e-9e08b87b5db3
 ---
 This resorce provides information about the following:
 Focus and EPP, Identificational Focus and the EPP, Informational Focus and Nuclear Stress, and Formal Feature Issue.
-

@@ -7,6 +7,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/3014
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 3014b0b9-6bc7-e33c-0e35-bc932fec2607
 ---
 This resource contains the following topics:
 Introduction, and Rizzi.
-

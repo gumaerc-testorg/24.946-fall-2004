@@ -5,6 +5,7 @@ file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/e22e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ho_l9b_invn_sypg.pdf
 uid: e22e3d52-77e6-245e-fbbe-0710451c205b
 ---
 This resource provides information about pragmatic approach to intervention.
-
