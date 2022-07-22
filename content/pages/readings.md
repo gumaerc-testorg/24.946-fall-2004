@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Readings section lists the journal articles and textbook selections for
+  each lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ba1ef9de-5a9d-4a6a-b9e9-dfa16e87f30a
 ---
