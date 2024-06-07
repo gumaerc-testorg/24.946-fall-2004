@@ -5,6 +5,7 @@ description: 'This resource contains the following topics:
   Introduction, A-chain maturation in Japanese, Development of A-chains, Syntax of
   Full Unaccusatives, and Development of passives in Japanese.'
 file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/0446ebd060003140b90d332372b874b5_ho_lect_10a_chn.pdf
+file_size: 174069
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

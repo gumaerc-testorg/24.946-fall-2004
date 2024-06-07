@@ -363,7 +363,7 @@ Make-up Class: -Wa, -Ga
 {{< tdopen >}}
 
 
-{{% resource_link "0f06eadf-828c-4493-a508-b9d747ffbd71" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kuno, Susumu. "Particles." In {{% resource_link "0f06eadf-828c-4493-a508-b9d747ffbd71" "The Structure of the Japanese Language" %}}. Cambridge, MA: MIT Press, 1973, pp. 37-95. ISBN: 0262110490.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/structure-japanese-language) Kuno, Susumu. "Particles." In [The Structure of the Japanese Language](https://mitpress.mit.edu/books/structure-japanese-language). Cambridge, MA: MIT Press, 1973, pp. 37-95. ISBN: 0262110490.
 
 A work by Yoshi Kitagawa and collaborator.
 
