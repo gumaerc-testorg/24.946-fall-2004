@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about scrambling, overt and covert
   movements.
 file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/8d7ff4bd02441fe0c1a50af8d4c4f9c8_ho_lct_8qr_scmbg.pdf
+file_size: 28828
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
