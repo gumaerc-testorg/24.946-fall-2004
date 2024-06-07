@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about pragmatic approach to intervention.
 file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/e22e3d5277e6245efbbe0710451c205b_ho_l9b_invn_sypg.pdf
+file_size: 122293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
