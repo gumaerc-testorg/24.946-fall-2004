@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the following topics:
 
   Introduction, and Rizzi.'
-file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/3014b0b96bc7e33c0e35bc932fec2607_ho_lct_9a_wk_ild.pdf
+file: /ol-ocw-studio-app/courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/3014b0b96bc7e33c0e35bc932fec2607_ho_lct_9a_wk_ild.pdf
 file_size: 36548
 file_type: application/pdf
 learning_resource_types:
