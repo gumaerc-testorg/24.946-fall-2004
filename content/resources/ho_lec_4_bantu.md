@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about the related citations used in
   the lecture. it also contains some related diagrams and discusses the given topic
   in 24 points.
-file: /ol-ocw-studio-app/courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/71dfa285ea613c2010600c6b3ae624bb_ho_lec_4_bantu.pdf
+file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/71dfa285ea613c2010600c6b3ae624bb_ho_lec_4_bantu.pdf
 file_size: 120542
 file_type: application/pdf
 learning_resource_types:
