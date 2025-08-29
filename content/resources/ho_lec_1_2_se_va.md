@@ -4,7 +4,7 @@ description: 'This resource contains the following topics:
 
   Saito''s Discovery, Optional movement and the EPP, Counterarguments, Further note
   on radical reconstruction, and Where radical reconstruction really exists.'
-file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/cc6e3298f5f36b44e64ec3ee8ad3b895_ho_lec_1_2_se_va.pdf
+file: /ol-ocw-studio-app/courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/cc6e3298f5f36b44e64ec3ee8ad3b895_ho_lec_1_2_se_va.pdf
 file_size: 136054
 file_type: application/pdf
 learning_resource_types:
