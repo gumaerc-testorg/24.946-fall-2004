@@ -7,7 +7,7 @@ description: 'This resource contains the following topics:
   ?Sportiche-   style? QF?, and New Way to do NP trace.
 
   8.'
-file: /courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/c7bbc62c189ee1c1ef9d27764fe22a68_ho_lecture_7_nq.pdf
+file: /ol-ocw-studio-app/courses/24-946-linguistic-theory-and-the-japanese-language-fall-2004/c7bbc62c189ee1c1ef9d27764fe22a68_ho_lecture_7_nq.pdf
 file_size: 130191
 file_type: application/pdf
 learning_resource_types:
